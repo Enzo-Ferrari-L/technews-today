@@ -10,7 +10,3 @@ O **TechNews Today** é um portal de notícias voltado para o mundo da tecnologi
 
 O objetivo do projeto é desenvolver um portal de notícias sobre tecnologia, apresentando informações de forma organizada, moderna e acessível. A página reúne notícias, conteúdo em vídeo e uma área de inscrição em newsletter para proporcionar uma experiência completa ao usuário.
 
-##  Tecnologias utilizadas
-
-- HTML5
-- CSS3
